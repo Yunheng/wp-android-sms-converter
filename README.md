@@ -10,7 +10,7 @@ Android Application: https://play.google.com/store/apps/details?id=com.riteshsah
 # Usage
 
 1. Extract the .msg file from your smsBackup folder on the Windows Phone
-2. python wpsms.py <input file from Windows Phone, ending with .msg> <output file for Android Phone, ending with .xml>
+2. python wpsms.py \<input file from Windows Phone, ending with .msg\> \<output file for Android Phone, ending with .xml\>
 3. Import the .xml file onto your Android phone and use the SMS Backup and Restore application to restore the mesages
 
 # To-Do
